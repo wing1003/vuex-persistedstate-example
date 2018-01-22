@@ -1,0 +1,1 @@
+# vuex-persistedstate-example
